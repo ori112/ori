@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ori112
 - 👀 I’m interested in data
 - 🌱 I’m currently learning systems information
+- 📊 I’m currently working as a data marketing analyst
 - 📫 How to reach me: oalatash@gmail.com
 
 <!---
